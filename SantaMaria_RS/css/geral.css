@@ -1,0 +1,275 @@
+body{
+	color: #000000;
+	background-color: #cccccc;
+    margin:0;
+    padding:0;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    text-align: justify; 
+}
+
+#container{
+	margin: 0 auto;  
+	padding: 0px;
+	border: 0;
+	width:960px;
+	font-size: 12px;    
+	background-color: #cccccc;  
+}
+
+#header{    
+	width:960px;  
+	height:140px;
+	font-weight: bold;    
+	background-color:#ffcc00; 
+	font-size: 36px;
+	color: #ffffff;
+	text-align: center;
+}
+#header p{
+	font-size: 12px;
+	color: #ffffcc;
+	font-weight: bold;
+}
+#header h1{
+	position: absolute;
+	top: 50px;
+	left:320px;
+}
+
+#gastronomia{
+	position: absolute;
+	top: 30px;
+	left: 190px;
+}
+#musica{
+	position: absolute;
+	top: 70px;
+	left: 230px;
+}
+#cinema{
+	position: absolute;
+	top: 120px;
+	left: 209px;
+}
+#festas{
+	position: absolute;
+	top: 30px;
+	right: 260px;
+}
+#exposicoes{
+	position: absolute;
+	top: 70px;
+	right: 200px;
+}
+#teatro{
+	position: absolute;
+	top: 110px;
+	right: 290px;
+}
+	
+
+#sub{
+	background-color: #708090;
+	width:960px;  
+	height:25px;
+	font-size: 18px;
+	text-align: center;
+	color: #ffffff;
+	margin: 10px;
+	
+}
+	
+
+#contents{
+	background-color: #cccccc;
+	margin: 10px;
+	width: 760px;
+	float: left;
+	height: 430px;
+}
+
+#contents1{
+	padding: 10px;  
+    background-color: #ffffff;  
+    width:230px;  
+	height: 230px;  
+	font-weight: bold;
+	font-size: 16px;
+}
+#contents1 h3{
+	font-size: 12px;  
+    font-weight: bold; 
+	color: #000000;
+}
+#contents1 p{
+	font-size: 12px;  
+    font-weight: bold;  
+    color: #666666; 
+}
+#contents1 img{
+	float: left;
+	margin: 10px;
+}
+
+#contents2{
+	padding: 10px;  
+    background-color: #ffffff;  
+    width:230px;  
+	height: 230px;  
+	font-weight: bold;
+	font-size: 16px;
+	position: absolute;
+	left: 450px;
+	top: 195px;
+	
+}
+#contents2 h3{
+	font-size: 12px;  
+    font-weight: bold; 
+	color: #000000;
+}
+#contents2 p{
+	font-size: 12px;  
+    font-weight: bold;  
+    color: #666666; 
+}
+#contents2 img{
+	float: left;
+	margin: 10px;
+}
+
+#contents3{
+	padding: 10px;  
+    background-color: #ffffff;  
+    width:230px;  
+	height: 230px;  
+	font-weight: bold;
+	font-size: 16px;
+	position: absolute;
+	left: 725px;
+	top: 195px;
+}
+#contents3 h3{
+	font-size: 12px;  
+    font-weight: bold; 
+	color: #000000;
+}
+#contents3 p{
+	font-size: 12px;  
+    font-weight: bold;  
+    color: #666666; 
+}
+#contents3 img{
+	float: left;
+	margin: 10px;
+}
+
+#contents4{
+	padding: 10px;  
+    background-color: #ffffff;  
+    width:230px;  
+	height: 230px;  
+	font-weight: bold;
+	font-size: 16px;
+	position: absolute;
+	top: 465px;
+}
+#contents4 h3{
+	font-size: 12px;  
+    font-weight: bold; 
+	color: #000000;
+}
+#contents4 p{
+	font-size: 12px;  
+    font-weight: bold;  
+    color: #666666; 
+}
+#contents4 img{
+	float: left;
+	margin: 10px;
+}
+
+#contents5{
+	padding: 10px;  
+    background-color: #ffffff;  
+    width:230px;  
+	height: 230px;  
+	font-weight: bold;
+	font-size: 16px;
+	position: absolute;
+	top: 465px;
+	left:450px;
+}
+#contents5 h3{
+	font-size: 12px;  
+    font-weight: bold; 
+	color: #000000;
+}
+#contents5 p{
+	font-size: 12px;  
+    font-weight: bold;  
+    color: #666666; 
+}
+#contents5 img{
+	float: left;
+	margin: 10px;
+}
+
+#contents6{
+	padding: 10px;  
+    background-color: #ffffff;  
+    width:230px;  
+	height: 230px;  
+	font-weight: bold;
+	font-size: 16px;
+	position: absolute;
+	top: 465px;
+	left: 725px;
+}
+#contents6 h3{
+	font-size: 12px;  
+    font-weight: bold; 
+	color: #000000;
+}
+#contents6 p{
+	font-size: 12px;  
+    font-weight: bold;  
+    color: #666666; 
+}
+#contents6 img{
+	float: left;
+	margin: 10px;
+}
+
+#menu{
+	background-color: #ffffff;
+	margin: 10px;
+	border: none;
+	padding: 10px;
+	width: 90px;
+	float: right;
+	height: 500px;
+}
+
+#menu h2{
+	font-size: 10px;
+	font-weight: bold;
+}
+
+#footer {
+    position:absolute;
+	top: 745px;
+    bottom:0;
+    width: 960px;
+	background-color: #708090;
+	color: #ffffff;
+	text-align: center;
+	height: 20px;
+	font-size: 14px;
+}
+
+
+
+
+	
+ 
